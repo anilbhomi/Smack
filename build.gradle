@@ -6,6 +6,7 @@ buildscript {
     }
     dependencies {
 		classpath 'org.kordamp.gradle:clirr-gradle-plugin:0.2.2'
+		classpath 'org.kordamp.gradle:markdown-gradle-plugin:2.2.0'
     }
 }
 
